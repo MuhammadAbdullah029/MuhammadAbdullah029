@@ -1,16 +1,12 @@
-## Hi there 👋
+# Muhammad Abdullah
+👋 Welcome to my profile! I'm Muhammad Abdullah, a versatile professional:
 
-<!--
-**MuhammadAbdullah029/MuhammadAbdullah029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Full Stack Developer | Frontend Enthusiast | Backend Learner
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Backend development with Node.js and Express.
+-  🔧 Improving: My skills in API development and advanced JavaScript frameworks.
+- 💼 Freelancer
+- 🎯 Skills: HTML5, CSS3, JavaScript, React, Node.js, Express.
+- 💡 Problem Solver
+- ⭐ 5-Star C/C++ Programmer
+- 📫 How to reach me: [Email](mailto:abdullahgu77ar@gmail.com).
