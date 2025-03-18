@@ -1,10 +1,10 @@
 # Muhammad Abdullah
 👋 Welcome to my profile! I'm Muhammad Abdullah, a versatile professional:
 
-🌐 Full Stack Developer | Frontend Enthusiast | Backend Learner
+🌐 Full Stack Developer | Frontend Enthusiast | Backend Developer
 
-- 🌱 Currently learning: Backend development with Node.js and Express.
--  🔧 Improving: My skills in API development and advanced JavaScript frameworks.
+- 🌱 Currently mastering: Advanced full-stack concepts and system design.
+- 🔧 Skills: Frontend (React, Tailwind CSS), Backend (Node.js, Express, APIs), Database (MongoDB, SQL).
 - 💼 Freelancer
 - 🎯 Skills: HTML5, CSS3, JavaScript, React, Node.js, Express.
 - 💡 Problem Solver
